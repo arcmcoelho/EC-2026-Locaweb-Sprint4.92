@@ -1,0 +1,1 @@
+python -m streamlit run EC-2026-Locaweb-Sprint4.92.py --server.port 8000 --server.address 0.0.0.0
