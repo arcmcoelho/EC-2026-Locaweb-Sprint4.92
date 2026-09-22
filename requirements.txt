@@ -6,3 +6,4 @@ plotly
 openpyxl
 azure-storage-blob
 xgboost
+prophet
